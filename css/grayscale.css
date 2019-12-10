@@ -21,7 +21,6 @@ transition: .7s ease-in;
 /* make it responsive */
 max-width: 300px;
 min-width: 50px;
-width:25%;
 height:auto;
 min-height: 50px;
 display:block;
